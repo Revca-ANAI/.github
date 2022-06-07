@@ -17,7 +17,7 @@ Our Goal is to democratize Machine Learning and make it accessible to everyone.
 
 ## Contributing
 
-- If you have any suggestions or bug reports, please open an issue [here]([https://github.com/Revca-ANAI/ANAI/issues](https://github.com/orgs/Revca-ANAI/discussions))
+- If you have any suggestions or bug reports, please open an issue [here](https://github.com/orgs/Revca-ANAI/discussions)
 - If you want to join the ANAI Team send us your resume [here](mailto:careers@revca.io)
 
 ## Contact
