@@ -23,6 +23,6 @@ Our Goal is to democratize Machine Learning and make it accessible to everyone.
 ## Contact
 
 - [E-mail](mailto:info@anai.io)
-- [LinkedIn](https://www.linkedin.com/company/revca/)
+- [LinkedIn](https://www.linkedin.com/company/revca-io/)
 - [Website](https://www.anai.io/)
 
