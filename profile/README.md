@@ -26,3 +26,6 @@ Our Goal is to democratize Machine Learning and make it accessible to everyone.
 - [LinkedIn](https://www.linkedin.com/company/revca-io/)
 - [Website](https://www.anai.io/)
 
+## Newsletter
+
+[![test](https://www.pbisrewards.com/wp-content/uploads/newsletter-banner-1.jpg)](https://anai.io/community/)
