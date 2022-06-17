@@ -29,3 +29,6 @@ Our Goal is to democratize Machine Learning and make it accessible to everyone.
 ## Newsletter
 
 [![test](https://www.pbisrewards.com/wp-content/uploads/newsletter-banner-1.jpg)](https://anai.io/community/)
+
+
+![](https://hit.yhype.me/github/profile?user_id=45912425)
