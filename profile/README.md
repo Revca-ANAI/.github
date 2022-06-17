@@ -1,6 +1,6 @@
 # ANAI an Automated Machine Learning Library by [Revca](www.revca.io)
 
-![ANAI LOGO](https://revca-assets.s3.ap-south-1.amazonaws.com/Full+version+on+black.jpeg)
+![ANAI LOGO](https://revca-assets.s3.ap-south-1.amazonaws.com/Blue+Yellow+Futuristic+Virtual+Technology+Blog+Banner.png)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 ![Downloads](https://static.pepy.tech/personalized-badge/lucifer-ml?period=total&units=international_system&left_color=black&right_color=green&left_text=Total%20Downloads)
