@@ -13,7 +13,7 @@ ANAI is an Automated Machine Learning Python Library that works with tabular dat
 
 ## Our Goal
 
-Our Goal is to democratize Machine Learning and make it accessible to everyone.
+Our Goal is to democratise Machine Learning and make it accessible to everyone.
 
 ## Contributing
 
